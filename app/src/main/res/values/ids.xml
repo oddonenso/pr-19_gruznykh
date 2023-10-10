@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="time_pick" type="id" />
+    <item name="button_date" type="id" />
+    <item name="button_time" type="id" />
+</resources>
